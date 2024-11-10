@@ -1,0 +1,12 @@
+.button-1 {
+    color: aqua;
+    background-color: black;
+    border: none;
+    cursor: pointer;
+}
+
+.button-1:hover {
+    color: white;
+    background-color: aliceblue;
+    transition: 0.5s;
+}
